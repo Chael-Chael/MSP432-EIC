@@ -1,0 +1,12 @@
+..\obj\clock.o: ..\Lib\inc\Clock.c
+..\obj\clock.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\clock.o: ..\Lib\inc\msp.h
+..\obj\clock.o: ..\Lib\inc\msp432p401r.h
+..\obj\clock.o: ..\Lib\inc\msp_compatibility.h
+..\obj\clock.o: ..\Lib\inc\msp432p401r_classic.h
+..\obj\clock.o: ..\Lib\inc\CMSIS\core_cm4.h
+..\obj\clock.o: ..\Lib\inc\CMSIS\core_cmInstr.h
+..\obj\clock.o: ..\Lib\inc\CMSIS\cmsis_armcc.h
+..\obj\clock.o: ..\Lib\inc\CMSIS\core_cmFunc.h
+..\obj\clock.o: ..\Lib\inc\CMSIS\core_cmSimd.h
+..\obj\clock.o: ..\Lib\inc\system_msp432p401r.h

@@ -1,0 +1,14 @@
+..\obj\uart0.o: ..\Lib\inc\UART0.c
+..\obj\uart0.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\uart0.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\uart0.o: ..\Lib\inc\UART0.h
+..\obj\uart0.o: ..\Lib\inc\msp.h
+..\obj\uart0.o: ..\Lib\inc\msp432p401r.h
+..\obj\uart0.o: ..\Lib\inc\msp_compatibility.h
+..\obj\uart0.o: ..\Lib\inc\msp432p401r_classic.h
+..\obj\uart0.o: ..\Lib\inc\CMSIS\core_cm4.h
+..\obj\uart0.o: ..\Lib\inc\CMSIS\core_cmInstr.h
+..\obj\uart0.o: ..\Lib\inc\CMSIS\cmsis_armcc.h
+..\obj\uart0.o: ..\Lib\inc\CMSIS\core_cmFunc.h
+..\obj\uart0.o: ..\Lib\inc\CMSIS\core_cmSimd.h
+..\obj\uart0.o: ..\Lib\inc\system_msp432p401r.h

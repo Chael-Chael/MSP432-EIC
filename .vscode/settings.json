@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ino": "arduino",
+        "uart0.h": "c",
+        "driverlib.h": "c"
+    }
+}
